@@ -6,8 +6,8 @@
 }
 
 :root {
-  --hue: 20;
-  --primary-color: hsl(var(--hue), 100%, 26%);
+  --hue: 51;
+  --primary-color: hsl(var(--hue), 100%, 40%);
   --headline: hsl(210, 11%, 15%);
   --paragraph: hsl(210, 9%, 31%);
 
